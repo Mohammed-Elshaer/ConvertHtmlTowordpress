@@ -17,7 +17,7 @@
                 <div class="aboutImage" data-aos="fade-left" data-aos-duration="1000">
                     <div class="imageBox">
                         <h3>20+ years experience</h3>
-                        <img src="assets/img/about-img.jpg" alt="About Image">
+                        <img src="<?php echo get_bloginfo('template_directory') ?>/assets/img/about-img.jpg" alt="About Image">
                     </div>
                 </div>
             </div>
